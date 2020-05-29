@@ -1,0 +1,7 @@
+package com.s2it.food.domain.repository;
+
+import java.util.list;
+
+public interface RestauranteRepository {
+
+}

@@ -3,4 +3,17 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Estado"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CidadeRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cidade"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.FormaPagamentoRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.FormaPagamento"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.PermissaoRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Permissao"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.RestauranteRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Restaurante"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CozinhaRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.S2itfoodApiApplication"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cozinha"/>
 </qualifiedTypeNameHistroy>

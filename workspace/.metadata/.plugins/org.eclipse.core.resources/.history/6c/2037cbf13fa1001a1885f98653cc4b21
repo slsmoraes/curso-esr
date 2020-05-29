@@ -1,0 +1,5 @@
+package com.s2it.food.api.controller;
+
+public class CozinhaController {
+
+}
