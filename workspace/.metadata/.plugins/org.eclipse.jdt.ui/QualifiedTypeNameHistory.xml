@@ -3,8 +3,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Estado"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CidadeRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cidade"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.FormaPagamentoRepository"/>
@@ -16,4 +14,16 @@
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CozinhaRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.S2itfoodApiApplication"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cozinha"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.EstadoRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Estado"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonRootName"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.s2it.food.api.model.CozinhasXmlWrapper"/>
 </qualifiedTypeNameHistroy>

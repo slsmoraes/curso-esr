@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;s2itfood-api&apos;&#x0D;&#x0A;- Original project: &apos;s2itfood-api&apos;&#x0D;&#x0A;- Original element: &apos;com.s2it.food.domain.model.CozinhasXMLWrapper.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.s2it.food.domain.model{CozinhasXMLWrapper.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1591573402081" subPackages="false" version="1.0"/>
+</session>

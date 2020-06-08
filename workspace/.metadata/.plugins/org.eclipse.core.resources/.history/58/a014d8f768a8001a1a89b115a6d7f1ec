@@ -1,0 +1,25 @@
+package com.s2it.food.api.controller;
+
+	import java.util.List;
+
+	import org.springframework.beans.factory.annotation.Autowired;
+	import org.springframework.web.bind.annotation.GetMapping;
+	import org.springframework.web.bind.annotation.RequestMapping;
+	import org.springframework.web.bind.annotation.RestController;
+
+	import com.s2it.food.domain.model.Cozinha;
+	import com.s2it.food.domain.repository.CozinhaRepository;
+
+	@RestController //Possue @Controller e @ResponseBody
+	@RequestMapping("/cozinhas")
+	public class CozinhaController {
+
+		@Autowired
+		private CozinhaRepository cozinhaRepository;
+		
+		@GetMapping
+		public List<Cozinha> listar() {
+			return cozinhaRepository.listar();
+		}
+		
+	}

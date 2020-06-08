@@ -1,0 +1,36 @@
+package com.s2it.food.api.controller;
+
+	import java.util.List;
+
+	import org.apache.tomcat.util.http.parser.MediaType;
+	import org.springframework.beans.factory.annotation.Autowired;
+	import org.springframework.web.bind.annotation.GetMapping;
+	import org.springframework.web.bind.annotation.RequestMapping;
+	import org.springframework.web.bind.annotation.RestController;
+
+	import com.s2it.food.domain.model.Cozinha;
+	import com.s2it.food.domain.repository.CozinhaRepository;
+
+	@RestController //Possue @Controller e @ResponseBody
+	@RequestMapping(value = "/cozinhas") //, produces = MediaType.APPLICATION_JSON_VALUE)
+	public class CozinhaController {
+
+		@Autowired
+		private CozinhaRepository cozinhaRepository;
+		
+		@GetMapping(produces = "aplication/json")
+		//@GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
+		public List<Cozinha> listar1() {
+			System.out.println("Listar 1");
+			return cozinhaRepository.listar();
+		}
+		
+		@GetMapping(produces = "aplication/xml")
+		//@GetMapping(produces = MediaType.APPLICATION_XML_VALUE)
+		public List<Cozinha> listar2() {
+			System.out.println("Listar 2");
+			return cozinhaRepository.listar();
+		}
+		
+		
+	}

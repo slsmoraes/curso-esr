@@ -1,5 +1,0 @@
-package com.s2it.food.infrastruture.repository;
-
-public class CidadeRepositoryImpl {
-
-}
