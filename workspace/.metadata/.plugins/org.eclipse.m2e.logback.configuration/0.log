@@ -1417,3 +1417,29 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-06-07 21:49:19,676 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-06-07 21:49:19,679 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-07 21:49:19,680 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
+2020-06-08 20:15:03,975 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-08 20:45:04,402 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 20:45:04,410 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 20:45:04,432 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 20:45:04,437 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 20:45:04,437 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
+2020-06-08 21:02:53,008 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:02:53,043 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:02:53,051 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:02:53,055 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:02:53,056 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
+2020-06-08 21:42:49,542 [Worker-32: Launching s2itfood-api - S2itfoodApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:42:49,544 [Worker-32: Launching s2itfood-api - S2itfoodApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:42:49,547 [Worker-32: Launching s2itfood-api - S2itfoodApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:42:49,551 [Worker-32: Launching s2itfood-api - S2itfoodApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:42:49,551 [Worker-32: Launching s2itfood-api - S2itfoodApiApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
+2020-06-08 21:49:08,156 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:49:08,158 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:49:08,161 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 21:49:08,164 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 21:49:08,164 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
+2020-06-08 23:17:19,490 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 23:17:19,511 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 23:17:19,520 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-08 23:17:19,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-08 23:17:19,524 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\S2-it\cursos\esr\workspace\s2itfood-api\src\test\resources
