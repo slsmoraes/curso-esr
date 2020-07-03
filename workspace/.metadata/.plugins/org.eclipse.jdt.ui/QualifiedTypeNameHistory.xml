@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CidadeRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cidade"/>
@@ -9,29 +8,36 @@
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.FormaPagamento"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.PermissaoRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Permissao"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.RestauranteRepository"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Restaurante"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CozinhaRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.S2itfoodApiApplication"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cozinha"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.EstadoRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Estado"/>
     <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.MediaType"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonRootName"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.s2it.food.api.model.CozinhasXmlWrapper"/>
-    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.service.CadastroCozinhaService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.RestauranteRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Restaurante"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.exception.EntidadeNaoEncontradaException"/>
     <fullyQualifiedTypeName name="org.springframework.dao.DataIntegrityViolationException"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.exception.EntidadeEmUsoException"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.service.CadastroRestauranteService"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
 </qualifiedTypeNameHistroy>
