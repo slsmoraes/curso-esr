@@ -8,9 +8,7 @@
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.FormaPagamento"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.PermissaoRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Permissao"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CozinhaRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.S2itfoodApiApplication"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cozinha"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.EstadoRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Estado"/>
     <fullyQualifiedTypeName name="org.apache.tomcat.util.http.parser.MediaType"/>
@@ -18,9 +16,6 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonRootName"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
     <fullyQualifiedTypeName name="com.s2it.food.api.model.CozinhasXmlWrapper"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
@@ -34,10 +29,15 @@
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.repository.RestauranteRepository"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.model.Restaurante"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.exception.EntidadeNaoEncontradaException"/>
     <fullyQualifiedTypeName name="org.springframework.dao.DataIntegrityViolationException"/>
     <fullyQualifiedTypeName name="com.s2it.food.domain.exception.EntidadeEmUsoException"/>
-    <fullyQualifiedTypeName name="com.s2it.food.domain.service.CadastroRestauranteService"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.service.CadastroRestauranteService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.repository.CozinhaRepository"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.model.Cozinha"/>
+    <fullyQualifiedTypeName name="com.s2it.food.domain.exception.EntidadeNaoEncontradaException"/>
 </qualifiedTypeNameHistroy>
